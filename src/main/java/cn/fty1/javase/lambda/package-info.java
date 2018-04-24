@@ -1,0 +1,1 @@
+package cn.fty1.javase.lambda;
